@@ -1,7 +1,7 @@
 # geeksForGeeksInternship
 Technical Articles published on the GeeksForGeeks platform during Technical Content Writing Internship
 
-The following 10 articles were published:
+The following 10 articles were published by me:
 
 1. https://www.geeksforgeeks.org/types-of-outliers-in-data-mining/
 2. https://www.geeksforgeeks.org/streamlit-introduction-and-setup/
